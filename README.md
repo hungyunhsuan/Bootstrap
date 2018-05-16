@@ -5,7 +5,7 @@
 ![screen shot](https://raw.githubusercontent.com/hungyunhsuan/Bootstrap/master/image/trelloimage.PNG)
 
 # **\#Wireframe**
-![screen shot](https://raw.githubusercontent.com/hungyunhsuan/Bootstrap/master/image/trelloimage.PNG)
+![screen shot](https://raw.githubusercontent.com/hungyunhsuan/Bootstrap/master/image/wireframe.PNG)
 
 
 
