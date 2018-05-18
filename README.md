@@ -20,7 +20,7 @@
 * 使用幻燈片(Carousel) , 讓圖片呈現自動轉換
 * https://trellobootstap.azurewebsites.net/bsblog/BuildSchool.html
 
-![bs]()
+![bs](https://github.com/hungyunhsuan/Bootstrap/blob/master/image/bs.PNG?raw=true)
 
 
 
