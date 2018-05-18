@@ -15,6 +15,14 @@
 
 ![screen shot](https://raw.githubusercontent.com/hungyunhsuan/Bootstrap/master/image/wireframe.PNG)
 
+# **\#BuildSchool Blog**
+* 使用bootstrap4切版 , 將同一欄切成左右兩邊
+* 使用幻燈片(Carousel) , 讓圖片呈現自動轉換
+* https://trellobootstap.azurewebsites.net/bsblog/BuildSchool.html
+
+![bs]()
+
+
 
 
 
